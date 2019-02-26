@@ -4,10 +4,6 @@
     <list default="true" id="e6a87df2-75c7-4007-a532-0a04f11486c3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/design/.idea/workspace.xml" afterPath="$PROJECT_DIR$/design/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/design/design.iml" afterPath="$PROJECT_DIR$/design/design.iml" />
-      <change beforePath="$PROJECT_DIR$/design/pom.xml" afterPath="$PROJECT_DIR$/design/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/design_pattern/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/design/target/" />
@@ -20,200 +16,252 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JavaVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/JavaVideo.java">
+      <file leaf-file-name="JavaCourseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaCourseFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="585">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideoFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/VideoFactory.java">
+      <file leaf-file-name="PythonArticle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonArticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonCourseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonCourseFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/Test.java">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="507">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FEVideo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/FEVideo.java">
+      <file leaf-file-name="JavaVideo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaVideo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="507">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FEVideoFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/FEVideoFactory.java">
+      <file leaf-file-name="Connection.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/develop/java/jdk/src.zip!/java/sql/Connection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#232#233#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.lyc.factorymethod" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.lyc.factorymethod">
+      <file leaf-file-name="CourseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/CourseFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.lyc.abstractfactory" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.lyc.abstractfactory">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>com.lyc.factorymethod</OriginalElement>
+              <OriginalElement>com.lyc.abstractfactory</OriginalElement>
               <nodes>
-                <node x="102.0" y="304.0">com.lyc.factorymethod.PythonVideoFactory</node>
-                <node x="504.44916666666654" y="0.0">com.lyc.factorymethod.Video</node>
-                <node x="826.3158333333332" y="162.0">com.lyc.factorymethod.FEVideo</node>
-                <node x="419.00000000000006" y="304.0">com.lyc.factorymethod.JavaVideoFactory</node>
-                <node x="292.31583333333333" y="162.0">com.lyc.factorymethod.JavaVideo</node>
-                <node x="0.0" y="162.0">com.lyc.factorymethod.PythonVideo</node>
-                <node x="859.0149999999999" y="304.0">com.lyc.factorymethod.FEVideoFactory</node>
-                <node x="584.3158333333332" y="162.0">com.lyc.factorymethod.VideoFactory</node>
-                <node x="571.0658333333332" y="446.0">com.lyc.factorymethod.Test</node>
+                <node x="171.58157894736848" y="395.0">com.lyc.abstractfactory.JavaCourseFactory</node>
+                <node x="838.5" y="232.5">com.lyc.abstractfactory.PythonVideo</node>
+                <node x="10.5" y="232.5">com.lyc.abstractfactory.JavaVideo</node>
+                <node x="805.6815789473685" y="0.0">com.lyc.abstractfactory.Article</node>
+                <node x="1131.5" y="232.5">com.lyc.abstractfactory.PythonArticle</node>
+                <node x="584.5" y="212.0">com.lyc.abstractfactory.CourseFactory</node>
+                <node x="327.68157894736845" y="0.0">com.lyc.abstractfactory.Video</node>
+                <node x="303.5" y="232.5">com.lyc.abstractfactory.JavaArticle</node>
+                <node x="925.7815789473685" y="395.0">com.lyc.abstractfactory.PythonCourseFactory</node>
+                <node x="351.5236842105263" y="578.0">com.lyc.abstractfactory.Test</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="com.lyc.factorymethod.PythonVideoFactory" target="com.lyc.factorymethod.Video">
-                  <point x="0.0" y="-46.0" />
-                  <point x="250.5" y="284.0" />
-                  <point x="271.50000000000006" y="284.0" />
-                  <point x="271.50000000000006" y="122.0" />
-                  <point x="553.3866666666665" y="122.0" />
-                  <point x="-81.5625" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.JavaVideoFactory" target="com.lyc.factorymethod.VideoFactory">
-                  <point x="88.99999999999989" y="-46.0" />
-                  <point x="641.5" y="284.0" />
-                  <point x="667.5658333333332" y="284.0" />
-                  <point x="-27.75" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.FEVideoFactory" target="com.lyc.factorymethod.Video">
-                  <point x="82.0" y="-46.0" />
-                  <point x="1064.0149999999999" y="284.0" />
-                  <point x="1097.815833333333" y="284.0" />
-                  <point x="1097.815833333333" y="122.0" />
-                  <point x="716.5116666666665" y="122.0" />
-                  <point x="81.5625" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.Test" target="com.lyc.factorymethod.VideoFactory">
-                  <point x="0.0" y="-46.0" />
-                  <point x="27.75" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.FEVideo" target="com.lyc.factorymethod.Video">
-                  <point x="0.0" y="-46.0" />
-                  <point x="956.8158333333332" y="132.0" />
-                  <point x="683.8866666666665" y="132.0" />
-                  <point x="48.9375" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.PythonVideoFactory" target="com.lyc.factorymethod.PythonVideo">
-                  <point x="-99.0" y="-46.0" />
-                  <point x="151.5" y="284.0" />
-                  <point x="130.5" y="284.0" />
+                <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.JavaArticle">
+                  <point x="55.80000000000001" y="-66.5" />
+                  <point x="366.8815789473685" y="365.0" />
+                  <point x="434.0" y="365.0" />
                   <point x="0.0" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.Test" target="com.lyc.factorymethod.FEVideoFactory">
-                  <point x="60.799999999999955" y="-46.0" />
-                  <point x="783.8658333333332" y="416.0" />
-                  <point x="982.0149999999999" y="416.0" />
+                <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.Article">
+                  <point x="61.799999999999955" y="-66.5" />
+                  <point x="1142.0815789473686" y="375.0" />
+                  <point x="1121.0" y="375.0" />
+                  <point x="1121.0" y="132.0" />
+                  <point x="957.9315789473685" y="132.0" />
+                  <point x="21.75" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.CourseFactory" target="com.lyc.abstractfactory.Video">
+                  <point x="-58.5" y="-66.5" />
+                  <point x="643.0" y="162.0" />
+                  <point x="479.93157894736845" y="162.0" />
+                  <point x="21.75" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.Video">
+                  <point x="-55.80000000000001" y="-66.5" />
+                  <point x="255.28157894736847" y="375.0" />
+                  <point x="282.0" y="375.0" />
+                  <point x="282.0" y="162.0" />
+                  <point x="436.43157894736845" y="162.0" />
+                  <point x="-21.75" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.JavaVideo">
+                  <point x="-111.60000000000002" y="-66.5" />
+                  <point x="199.48157894736846" y="375.0" />
+                  <point x="141.0" y="375.0" />
                   <point x="0.0" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.FEVideoFactory" target="com.lyc.factorymethod.FEVideo">
+                <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.Video">
+                  <point x="-114.0" y="-46.0" />
+                  <point x="389.5236842105263" y="558.0" />
+                  <point x="0.0" y="558.0" />
+                  <point x="0.0" y="142.0" />
+                  <point x="349.43157894736845" y="142.0" />
+                  <point x="-108.75" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.PythonArticle" target="com.lyc.abstractfactory.Article">
                   <point x="0.0" y="-46.0" />
-                  <point x="982.0149999999999" y="284.0" />
-                  <point x="956.8158333333332" y="284.0" />
-                  <point x="0.0" y="46.0" />
+                  <point x="1262.0" y="122.0" />
+                  <point x="1001.4315789473685" y="122.0" />
+                  <point x="65.25000000000006" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.FEVideoFactory" target="com.lyc.factorymethod.VideoFactory">
-                  <point x="-82.0" y="-46.0" />
-                  <point x="900.0149999999999" y="284.0" />
-                  <point x="778.5658333333332" y="284.0" />
-                  <point x="83.25" y="46.0" />
+                <edge source="com.lyc.abstractfactory.CourseFactory" target="com.lyc.abstractfactory.Article">
+                  <point x="58.5" y="-66.5" />
+                  <point x="760.0" y="192.0" />
+                  <point x="914.4315789473685" y="192.0" />
+                  <point x="-21.75" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.JavaVideoFactory" target="com.lyc.factorymethod.Video">
-                  <point x="-1.1368683772161603E-13" y="-46.0" />
-                  <point x="552.5" y="274.0" />
-                  <point x="573.8158333333332" y="274.0" />
-                  <point x="573.8158333333332" y="142.0" />
-                  <point x="618.6366666666665" y="142.0" />
-                  <point x="-16.3125" y="46.0" />
+                <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.CourseFactory">
+                  <point x="111.60000000000002" y="-66.5" />
+                  <point x="422.6815789473685" y="375.0" />
+                  <point x="623.5" y="375.0" />
+                  <point x="-78.0" y="66.5" />
                 </edge>
-                <edge source="com.lyc.factorymethod.VideoFactory" target="com.lyc.factorymethod.Video">
+                <edge source="com.lyc.abstractfactory.JavaArticle" target="com.lyc.abstractfactory.Article">
                   <point x="0.0" y="-46.0" />
-                  <point x="695.3158333333332" y="142.0" />
-                  <point x="651.2616666666665" y="142.0" />
-                  <point x="16.3125" y="46.0" />
+                  <point x="434.0" y="182.0" />
+                  <point x="870.9315789473685" y="182.0" />
+                  <point x="-65.25" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.Test" target="com.lyc.factorymethod.JavaVideoFactory">
-                  <point x="-60.80000000000007" y="-46.0" />
-                  <point x="662.2658333333331" y="416.0" />
-                  <point x="552.5" y="416.0" />
+                <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.Video">
+                  <point x="0.0" y="-66.5" />
+                  <point x="1080.2815789473684" y="375.0" />
+                  <point x="1110.0" y="375.0" />
+                  <point x="1110.0" y="142.0" />
+                  <point x="566.9315789473685" y="142.0" />
+                  <point x="108.75" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.PythonVideo">
+                  <point x="-61.80000000000007" y="-66.5" />
+                  <point x="1018.4815789473685" y="375.0" />
+                  <point x="969.0" y="375.0" />
                   <point x="0.0" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.JavaVideo" target="com.lyc.factorymethod.Video">
+                <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.Article">
+                  <point x="114.0" y="-46.0" />
+                  <point x="617.5236842105263" y="558.0" />
+                  <point x="1403.0" y="558.0" />
+                  <point x="1403.0" y="112.0" />
+                  <point x="1044.9315789473685" y="112.0" />
+                  <point x="108.75000000000006" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.Article">
+                  <point x="0.0" y="-66.5" />
+                  <point x="311.0815789473685" y="375.0" />
+                  <point x="293.0" y="375.0" />
+                  <point x="293.0" y="172.0" />
+                  <point x="827.4315789473685" y="172.0" />
+                  <point x="-108.75" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.JavaVideo" target="com.lyc.abstractfactory.Video">
                   <point x="0.0" y="-46.0" />
-                  <point x="422.81583333333333" y="132.0" />
-                  <point x="586.0116666666665" y="132.0" />
-                  <point x="-48.9375" y="46.0" />
+                  <point x="141.0" y="152.0" />
+                  <point x="392.93157894736845" y="152.0" />
+                  <point x="-65.25" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.PythonVideoFactory" target="com.lyc.factorymethod.VideoFactory">
-                  <point x="99.0" y="-46.0" />
-                  <point x="349.5" y="284.0" />
-                  <point x="612.0658333333332" y="284.0" />
-                  <point x="-83.25" y="46.0" />
+                <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.JavaCourseFactory">
+                  <point x="-38.0" y="-46.0" />
+                  <point x="465.5236842105263" y="548.0" />
+                  <point x="311.0815789473685" y="548.0" />
+                  <point x="0.0" y="66.5" />
                 </edge>
-                <edge source="com.lyc.factorymethod.Test" target="com.lyc.factorymethod.PythonVideoFactory">
-                  <point x="-121.60000000000002" y="-46.0" />
-                  <point x="601.4658333333332" y="426.0" />
-                  <point x="250.5" y="426.0" />
+                <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.CourseFactory">
+                  <point x="-123.60000000000002" y="-66.5" />
+                  <point x="956.6815789473685" y="375.0" />
+                  <point x="779.5" y="375.0" />
+                  <point x="78.0" y="66.5" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.PythonArticle">
+                  <point x="123.59999999999991" y="-66.5" />
+                  <point x="1203.8815789473683" y="375.0" />
+                  <point x="1262.0" y="375.0" />
                   <point x="0.0" y="46.0" />
                 </edge>
-                <edge source="com.lyc.factorymethod.JavaVideoFactory" target="com.lyc.factorymethod.JavaVideo">
-                  <point x="-89.00000000000011" y="-46.0" />
-                  <point x="463.49999999999994" y="274.0" />
-                  <point x="422.81583333333333" y="274.0" />
-                  <point x="0.0" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.Test" target="com.lyc.factorymethod.Video">
-                  <point x="121.60000000000002" y="-46.0" />
-                  <point x="844.6658333333332" y="426.0" />
-                  <point x="1124.7649999999999" y="426.0" />
-                  <point x="1124.7649999999999" y="112.0" />
-                  <point x="749.1366666666665" y="112.0" />
-                  <point x="114.1875" y="46.0" />
-                </edge>
-                <edge source="com.lyc.factorymethod.PythonVideo" target="com.lyc.factorymethod.Video">
+                <edge source="com.lyc.abstractfactory.PythonVideo" target="com.lyc.abstractfactory.Video">
                   <point x="0.0" y="-46.0" />
-                  <point x="130.5" y="112.0" />
-                  <point x="520.7616666666665" y="112.0" />
-                  <point x="-114.1875" y="46.0" />
+                  <point x="969.0" y="152.0" />
+                  <point x="523.4315789473685" y="152.0" />
+                  <point x="65.25" y="46.0" />
+                </edge>
+                <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.CourseFactory">
+                  <point x="38.0" y="-46.0" />
+                  <point x="541.5236842105263" y="548.0" />
+                  <point x="701.5" y="548.0" />
+                  <point x="0.0" y="66.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="556.5" y="498.5" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-403.0" y="163.0" />
               <SelectedNodes />
               <Categories>
-                <Category>Properties</Category>
                 <Category>Methods</Category>
+                <Category>Constructors</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
               </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
@@ -221,51 +269,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="234">
-                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaVideoFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/JavaVideoFactory.java">
+      <file leaf-file-name="JavaArticle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaArticle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="42" />
               <folding>
-                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
                 <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PythonVideoFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/PythonVideoFactory.java">
+      <file leaf-file-name="Article.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Article.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -275,6 +297,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -298,6 +321,16 @@
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/FEVideoFactory.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/Test.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Video.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Article.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaVideo.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaArticle.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaCourseFactory.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonVideo.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonArticle.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Test.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/CourseFactory.java" />
       </list>
     </option>
   </component>
@@ -382,6 +415,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lyc" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lyc" type="462c0819:PsiDirectoryNode" />
               <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -412,6 +455,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lyc.abstractfactory" />
       <recent name="com.lyc.factorymethod" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -505,12 +549,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551151618575</updated>
       <workItem from="1551151622404" duration="45000" />
-      <workItem from="1551155371446" duration="4375000" />
+      <workItem from="1551155371446" duration="9901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4420000" />
+    <option name="totallyTimeSpent" value="9946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2869" y="-11" width="2902" height="1582" extended-state="6" />
@@ -527,7 +571,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2534809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -606,14 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/JavaVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -627,8 +663,8 @@
         <state relative-caret-position="390">
           <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -638,8 +674,8 @@
         <state relative-caret-position="390">
           <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="false" />
+            <element signature="e#241#242#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,47 +691,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/FEVideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/VideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="234">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -833,7 +832,7 @@
               <point x="-114.1875" y="46.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="556.5" y="498.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-249.0" y="129.5" />
           <SelectedNodes />
           <Categories>
             <Category>Properties</Category>
@@ -841,6 +840,326 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/FEVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/factorymethod/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lyc.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lyc.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="171.58157894736848" y="395.0">com.lyc.abstractfactory.JavaCourseFactory</node>
+            <node x="838.5" y="232.5">com.lyc.abstractfactory.PythonVideo</node>
+            <node x="10.5" y="232.5">com.lyc.abstractfactory.JavaVideo</node>
+            <node x="805.6815789473685" y="0.0">com.lyc.abstractfactory.Article</node>
+            <node x="1131.5" y="232.5">com.lyc.abstractfactory.PythonArticle</node>
+            <node x="584.5" y="212.0">com.lyc.abstractfactory.CourseFactory</node>
+            <node x="327.68157894736845" y="0.0">com.lyc.abstractfactory.Video</node>
+            <node x="303.5" y="232.5">com.lyc.abstractfactory.JavaArticle</node>
+            <node x="925.7815789473685" y="395.0">com.lyc.abstractfactory.PythonCourseFactory</node>
+            <node x="351.5236842105263" y="578.0">com.lyc.abstractfactory.Test</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.JavaArticle">
+              <point x="55.80000000000001" y="-66.5" />
+              <point x="366.8815789473685" y="365.0" />
+              <point x="434.0" y="365.0" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.Article">
+              <point x="61.799999999999955" y="-66.5" />
+              <point x="1142.0815789473686" y="375.0" />
+              <point x="1121.0" y="375.0" />
+              <point x="1121.0" y="132.0" />
+              <point x="957.9315789473685" y="132.0" />
+              <point x="21.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.CourseFactory" target="com.lyc.abstractfactory.Video">
+              <point x="-58.5" y="-66.5" />
+              <point x="643.0" y="162.0" />
+              <point x="479.93157894736845" y="162.0" />
+              <point x="21.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.Video">
+              <point x="-55.80000000000001" y="-66.5" />
+              <point x="255.28157894736847" y="375.0" />
+              <point x="282.0" y="375.0" />
+              <point x="282.0" y="162.0" />
+              <point x="436.43157894736845" y="162.0" />
+              <point x="-21.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.JavaVideo">
+              <point x="-111.60000000000002" y="-66.5" />
+              <point x="199.48157894736846" y="375.0" />
+              <point x="141.0" y="375.0" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.Video">
+              <point x="-114.0" y="-46.0" />
+              <point x="389.5236842105263" y="558.0" />
+              <point x="0.0" y="558.0" />
+              <point x="0.0" y="142.0" />
+              <point x="349.43157894736845" y="142.0" />
+              <point x="-108.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonArticle" target="com.lyc.abstractfactory.Article">
+              <point x="0.0" y="-46.0" />
+              <point x="1262.0" y="122.0" />
+              <point x="1001.4315789473685" y="122.0" />
+              <point x="65.25000000000006" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.CourseFactory" target="com.lyc.abstractfactory.Article">
+              <point x="58.5" y="-66.5" />
+              <point x="760.0" y="192.0" />
+              <point x="914.4315789473685" y="192.0" />
+              <point x="-21.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.CourseFactory">
+              <point x="111.60000000000002" y="-66.5" />
+              <point x="422.6815789473685" y="375.0" />
+              <point x="623.5" y="375.0" />
+              <point x="-78.0" y="66.5" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.JavaArticle" target="com.lyc.abstractfactory.Article">
+              <point x="0.0" y="-46.0" />
+              <point x="434.0" y="182.0" />
+              <point x="870.9315789473685" y="182.0" />
+              <point x="-65.25" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.Video">
+              <point x="0.0" y="-66.5" />
+              <point x="1080.2815789473684" y="375.0" />
+              <point x="1110.0" y="375.0" />
+              <point x="1110.0" y="142.0" />
+              <point x="566.9315789473685" y="142.0" />
+              <point x="108.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.PythonVideo">
+              <point x="-61.80000000000007" y="-66.5" />
+              <point x="1018.4815789473685" y="375.0" />
+              <point x="969.0" y="375.0" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.Article">
+              <point x="114.0" y="-46.0" />
+              <point x="617.5236842105263" y="558.0" />
+              <point x="1403.0" y="558.0" />
+              <point x="1403.0" y="112.0" />
+              <point x="1044.9315789473685" y="112.0" />
+              <point x="108.75000000000006" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.JavaCourseFactory" target="com.lyc.abstractfactory.Article">
+              <point x="0.0" y="-66.5" />
+              <point x="311.0815789473685" y="375.0" />
+              <point x="293.0" y="375.0" />
+              <point x="293.0" y="172.0" />
+              <point x="827.4315789473685" y="172.0" />
+              <point x="-108.75" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.JavaVideo" target="com.lyc.abstractfactory.Video">
+              <point x="0.0" y="-46.0" />
+              <point x="141.0" y="152.0" />
+              <point x="392.93157894736845" y="152.0" />
+              <point x="-65.25" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.JavaCourseFactory">
+              <point x="-38.0" y="-46.0" />
+              <point x="465.5236842105263" y="548.0" />
+              <point x="311.0815789473685" y="548.0" />
+              <point x="0.0" y="66.5" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.CourseFactory">
+              <point x="-123.60000000000002" y="-66.5" />
+              <point x="956.6815789473685" y="375.0" />
+              <point x="779.5" y="375.0" />
+              <point x="78.0" y="66.5" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonCourseFactory" target="com.lyc.abstractfactory.PythonArticle">
+              <point x="123.59999999999991" y="-66.5" />
+              <point x="1203.8815789473683" y="375.0" />
+              <point x="1262.0" y="375.0" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.PythonVideo" target="com.lyc.abstractfactory.Video">
+              <point x="0.0" y="-46.0" />
+              <point x="969.0" y="152.0" />
+              <point x="523.4315789473685" y="152.0" />
+              <point x="65.25" y="46.0" />
+            </edge>
+            <edge source="com.lyc.abstractfactory.Test" target="com.lyc.abstractfactory.CourseFactory">
+              <point x="38.0" y="-46.0" />
+              <point x="541.5236842105263" y="548.0" />
+              <point x="701.5" y="548.0" />
+              <point x="0.0" y="66.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-403.0" y="163.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/JavaVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/abstractfactory/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/develop/java/jdk/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
