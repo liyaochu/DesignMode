@@ -3,7 +3,7 @@ package com.lyc.structural.facade;
 /**
  * @Auther: Jhon Li
  * @Date: 2019/2/27 15:18
- * @Description:
+ * @Description: 外观模式
  */
 public class GiftExchangService {
     private QualifyService qualifyService;
