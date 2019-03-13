@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a87df2-75c7-4007-a532-0a04f11486c3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/CatalogComponent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/Course.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/CourseCatalog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/EmployeeFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Manager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/EmptyPromotionStragety.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/FanXianpromotionStrategy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/LiJianpromotionStrategy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/ManJianpromotionStrategy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategyFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/ProductService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/GoShiPin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/JavaShiPin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/Produce.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProductServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/PythonShiPin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/ACourse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/DesignPatternCourse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/FECourse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/Test.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/design/design_module.iml" afterPath="$PROJECT_DIR$/design/design_module.iml" />
+      <change beforePath="$PROJECT_DIR$/design/pom.xml" afterPath="$PROJECT_DIR$/design/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/design/target/" />
@@ -23,144 +39,123 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="AbstractDecorator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/AbstractDecorator.java">
+      <file leaf-file-name="ProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/ProductService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="312">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/pom.xml">
+      <file leaf-file-name="ProductServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProductServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="76" column="17" lean-forward="false" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="438">
-                <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-              <folding>
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CourseCatalog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/CourseCatalog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="585">
+              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CatalogComponent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/CatalogComponent.java">
+      <file leaf-file-name="ProduceActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="585">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding>
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Employee.java">
+      <file leaf-file-name="ProduceFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Manager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/EmployeeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="544">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#262#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PromotionStrategyFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategyFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="35" column="33" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="35" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Test.java">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="624">
+              <caret line="34" column="83" lean-forward="true" selection-start-line="34" selection-start-column="83" selection-end-line="34" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PromotionActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaShiPin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/JavaShiPin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PythonShiPin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/PythonShiPin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Produce.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/Produce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -187,33 +182,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/LazySingleton.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/LazyDoubleCheckSingleton.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/StaticInnerClassSingleton.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/HungrySingleton.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/Test.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/EnumInstance.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/ThreadLocalInstance.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/prototype/Mail.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/prototype/MailUtil.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/create/prototype/Test.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/PointsGift.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/QualifyService.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/PointsPaymentService.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/ShipingService.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/Test.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/GiftExchangService.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/Battercake.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/BattercakeWithEggSausage.java" />
-        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/BattercakeWithEgg.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/Test.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/Battercake.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/AbstractDecorator.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/SausageDecorator.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/EggDecorator.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/Test.java" />
-        <option value="$PROJECT_DIR$/design/pom.xml" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/ABattercake.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/adapter/Target.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/adapter/ConcreteTarget.java" />
@@ -234,10 +208,31 @@
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/EmployeeFactory.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Test.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Employee.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/CatalogComponent.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/Course.java" />
         <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/CourseCatalog.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/Test.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/DesignPatternCourse.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/FECourse.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/ACourse.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/FanXianpromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/LiJianpromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/ManJianpromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionActivity.java" />
+        <option value="$PROJECT_DIR$/design/pom.xml" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategyFactory.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/Test.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/EmptyPromotionStragety.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/Produce.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/GoShiPin.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/PythonShiPin.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/JavaShiPin.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceActivity.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceFactory.java" />
+        <option value="$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProductServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -246,6 +241,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2773" />
@@ -321,7 +323,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lyc" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
@@ -331,8 +333,20 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lyc" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignMode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lyc" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,6 +363,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lyc.behavioral.strategy" />
       <recent name="com.lyc.structural.adapter.objectadapter" />
       <recent name="com.lyc.structural.decorator.v2" />
       <recent name="com.lyc.abstractfactory" />
@@ -370,7 +385,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.company.lyc.Main" />
@@ -414,6 +429,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.lyc.structural.adapter.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design_module" />
+      <envs />
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lyc.behavioral.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.lyc.behavioral.strategy.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -478,18 +512,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.Test" />
       <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
       <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (3)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
         <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -511,18 +547,19 @@
       <workItem from="1551232753461" duration="17671000" />
       <workItem from="1551320438594" duration="649000" />
       <workItem from="1552096423190" duration="6012000" />
-      <workItem from="1552268900361" duration="4500000" />
+      <workItem from="1552268900361" duration="13198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44393000" />
+    <option name="totallyTimeSpent" value="53091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2869" y="-11" width="2902" height="1582" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -546,7 +583,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -564,155 +600,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/EnumInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/ThreadLocalInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/singleton/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/prototype/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/prototype/Mail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/prototype/MailUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="16" column="74" lean-forward="false" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/QualifyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/PointsGift.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/BattercakeWithEggSausage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/BattercakeWithEgg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/simplefactory/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/simplefactory/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/simplefactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/create/simplefactory/VideoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-546">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/Battercake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="17" column="98" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="14" column="77" lean-forward="false" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/GiftExchangService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/PointsPaymentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/facade/ShipingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/decorator/v2/Battercake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
@@ -946,14 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="76" column="17" lean-forward="false" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/flyweight/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -967,8 +846,8 @@
         <state relative-caret-position="661">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#279#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#262#279#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -978,14 +857,14 @@
         <state relative-caret-position="388">
           <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#241#242#0" expanded="false" />
+            <element signature="e#345#346#0" expanded="false" />
+            <element signature="e#387#388#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#521#522#0" expanded="false" />
+            <element signature="e#571#572#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -998,28 +877,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="438">
-            <caret line="60" column="29" lean-forward="false" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/structural/composite/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
           <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1029,16 +897,16 @@
         <state relative-caret-position="700">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#335#336#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#463#464#0" expanded="false" />
+            <element signature="e#532#533#0" expanded="false" />
+            <element signature="e#595#596#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#688#689#0" expanded="false" />
+            <element signature="e#754#755#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1048,15 +916,299 @@
         <state relative-caret-position="583">
           <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#352#353#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#511#512#0" expanded="false" />
+            <element signature="e#586#587#0" expanded="false" />
+            <element signature="e#644#645#0" expanded="false" />
+            <element signature="e#722#723#0" expanded="false" />
+            <element signature="e#754#755#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/DesignPatternCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#206#207#0" expanded="false" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#313#314#0" expanded="false" />
+            <element signature="e#340#341#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/FECourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#453#454#0" expanded="false" />
+            <element signature="e#511#512#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/templatemethod/ACourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#473#474#0" expanded="false" />
+            <element signature="e#515#516#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
+            <element signature="e#590#591#0" expanded="false" />
+            <element signature="e#645#646#0" expanded="false" />
+            <element signature="e#673#674#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lyc.behavioral.strategy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lyc.behavioral.strategy</OriginalElement>
+          <nodes>
+            <node x="0.0" y="162.5">com.lyc.behavioral.strategy.PromotionActivity</node>
+            <node x="1228.0" y="162.5">com.lyc.behavioral.strategy.FanXianpromotionStrategy</node>
+            <node x="511.0" y="16.0">com.lyc.behavioral.strategy.PromotionStrategy</node>
+            <node x="473.0" y="162.5">com.lyc.behavioral.strategy.ManJianpromotionStrategy</node>
+            <node x="866.0" y="142.0">com.lyc.behavioral.strategy.LiJianpromotionStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lyc.behavioral.strategy.ManJianpromotionStrategy" target="com.lyc.behavioral.strategy.PromotionStrategy">
+              <point x="0.0" y="-46.0" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.behavioral.strategy.LiJianpromotionStrategy" target="com.lyc.behavioral.strategy.PromotionStrategy">
+              <point x="0.0" y="-66.5" />
+              <point x="1037.0" y="122.0" />
+              <point x="722.5" y="122.0" />
+              <point x="63.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.behavioral.strategy.FanXianpromotionStrategy" target="com.lyc.behavioral.strategy.PromotionStrategy">
+              <point x="0.0" y="-46.0" />
+              <point x="1412.0" y="112.0" />
+              <point x="785.5" y="112.0" />
+              <point x="126.0" y="46.0" />
+            </edge>
+            <edge source="com.lyc.behavioral.strategy.PromotionActivity" target="com.lyc.behavioral.strategy.PromotionStrategy">
+              <point x="113.25" y="-46.0" />
+              <point x="339.75" y="122.0" />
+              <point x="596.5" y="122.0" />
+              <point x="-63.0" y="46.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-195.0" y="-46.0" />
+          <SelectedNodes>
+            <node>com.lyc.behavioral.strategy.FanXianpromotionStrategy</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="36" column="17" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/ManJianpromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/EmptyPromotionStragety.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/FanXianpromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/LiJianpromotionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/GoShiPin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/JavaShiPin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/Produce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/PythonShiPin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionStrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="35" selection-end-column="33" />
+          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="34" column="83" lean-forward="true" selection-start-line="34" selection-start-column="83" selection-end-line="34" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProduceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/PromotionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/src/main/java/com/lyc/behavioral/strategy/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
