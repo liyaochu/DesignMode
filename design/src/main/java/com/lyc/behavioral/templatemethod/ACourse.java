@@ -8,7 +8,7 @@ package com.lyc.behavioral.templatemethod;
  */
 public abstract class ACourse {
     protected final void makeCourse() {
-        this.makeCourse();
+        this.makeVideo();
         this.makePPT();
         if (needWriteArticle()) {
             this.writeArticle();
